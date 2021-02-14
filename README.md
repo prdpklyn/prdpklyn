@@ -1,8 +1,6 @@
----
 
 Greetings! 👋
 
----
 
 [![LinkedIn](https://img.shields.io/badge/-Pradeep_Lanke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/prdpklyn/)](https://www.linkedin.com/in/prdpklyn/)
 
